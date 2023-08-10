@@ -1,0 +1,2 @@
+# Mushroom-Classification
+The purpose of this project is to develop a model that will predict the edibility of mushrooms from its features, such as cap (shape, surface, color), gill (attachment, spacing, size, color), bruises, stalk (shape, root, surface above ring, surface below ring, color above ring, color below ring), veil (type, color), ring (number, type), spore print color, population, habitat. We will be using data from Kaggle data set, and implementing multiple techniques to yield the most accurate model for this binary classification problem.
